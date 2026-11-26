@@ -1,0 +1,17 @@
+export const categories = [
+  { id: "fruits", name: "Fruits", emoji: "🍎", tint: "from-rose-100 to-rose-50" },
+  { id: "vegetables", name: "Vegetables", emoji: "🥦", tint: "from-lime-100 to-lime-50" },
+  { id: "dairy-eggs", name: "Dairy & Eggs", emoji: "🥛", tint: "from-amber-100 to-amber-50" },
+  { id: "bakery", name: "Bakery", emoji: "🥐", tint: "from-orange-100 to-orange-50" },
+  { id: "rice-grains", name: "Rice & Grains", emoji: "🌾", tint: "from-yellow-100 to-yellow-50" },
+  { id: "atta-flour", name: "Atta & Flour", emoji: "🥖", tint: "from-amber-100 to-orange-50" },
+  { id: "pulses-dal", name: "Pulses & Dal", emoji: "🫘", tint: "from-stone-100 to-stone-50" },
+  { id: "cooking-oil", name: "Cooking Oil", emoji: "🫗", tint: "from-yellow-100 to-orange-50" },
+  { id: "spices", name: "Spices", emoji: "🌶️", tint: "from-red-100 to-red-50" },
+  { id: "snacks", name: "Snacks", emoji: "🍿", tint: "from-orange-100 to-orange-50" },
+  { id: "beverages", name: "Beverages", emoji: "🥤", tint: "from-sky-100 to-sky-50" },
+  { id: "personal-care", name: "Personal Care", emoji: "🧴", tint: "from-violet-100 to-violet-50" },
+  { id: "household", name: "Household Essentials", emoji: "🧽", tint: "from-cyan-100 to-cyan-50" },
+  { id: "baby-care", name: "Baby Care", emoji: "🍼", tint: "from-pink-100 to-pink-50" },
+  { id: "frozen", name: "Frozen Foods", emoji: "🧊", tint: "from-blue-100 to-blue-50" },
+];
